@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>Images/ContinueButton.png</file>
+    <file>Images/ArmorLabelWidget.png</file>
+    <file>Images/BootsLabelWidget.png</file>
+    <file>Images/HelmetLabelWidget.png</file>
+    <file>Images/PantsLabelWidgwet.png</file>
+    <file>Images/ToMenuButton.png</file>
+    <file>Images/WeaponLabelWidget.png</file>
+    <file>Images/CreditsButton.png</file>
+    <file>Images/DiffEasy.png</file>
+    <file>Images/DiffImpossible.png</file>
+    <file>Images/DiffMedium.png</file>
+    <file>Images/EggsButton.png</file>
+    <file>Images/ExitButton.png</file>
+    <file>Images/GameTittleLabel.png</file>
+    <file>Images/StartButton.png</file>
+  </qresource>
+</RCC>
